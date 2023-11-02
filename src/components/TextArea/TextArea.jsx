@@ -19,15 +19,6 @@ class Textarea extends Component {
     return color;
   }
 
-  handleChange = (event) => {
-    const newText = event.target.value;
-    const bgColor = this.getRandomColor();
-
-    this.setState({
-      text: newText,
-      bgColor: bgColor,
-    });
-  };
 
   render() {
     const { text, bgColor } = this.state;

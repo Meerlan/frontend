@@ -33,7 +33,7 @@ class Textarea extends Component {
     const { text, bgColor } = this.state;
 
     return (
-      <div>
+      <div className="container">
         <textarea
           value={text}
           onChange={this.handleChange}

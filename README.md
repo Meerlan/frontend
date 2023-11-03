@@ -2,6 +2,8 @@
 
 The Textarea Component is a special part of a website made with a tool called React. It's like a box where you can write things, and it can change its color. When you type in it, the color changes to something random.
 
+![AIU preview](preview.png?raw=true "AIU")
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

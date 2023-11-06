@@ -1,5 +1,5 @@
 # .github/workflows/my-workflow.yml
-name: Website - Production
+name: Deployment
 on:
   workflow_dispatch:
   # push:
